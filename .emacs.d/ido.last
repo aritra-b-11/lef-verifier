@@ -1,0 +1,63 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/aritra/Desktop/LaTeX/" . "IEEEtran/")
+ ("/home/aritra/" . "Downloads/")
+ ("/home/aritra/Desktop/" . "LaTeX/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/aritra/Desktop/LaTeX/"
+ "/home/aritra/Downloads/"
+ "/home/aritra/"
+ "/home/aritra/Desktop/"
+ "/home/aritra/Desktop/Study/"
+ "~/Desktop/Study/"
+ "/home/aritra/Desktop/LaTeX/IEEEtran/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CV_Aritra_latex.tex"
+ "CV_latex.tex"
+ "10_school_cert.jpg"
+ "CV_xelatex.tex"
+ ".emacs"
+ "examples.desktop"
+ "Dialog_semiconductor_interview.org"
+ "possible_interview_questions.org"
+ "ESD.org"
+ "interview_data.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/aritra/Desktop/LaTeX/" (22116 36175 818581 814000) "CV_xelatex.tex" "./" "Lifi_cut1.aux" "Lifi_pics_in_pdf/" "CV_latex.pdf" "Lifi_cut1.pdf" "Lifi_didi_cut0.dvi" "CV_latex.aux" "CV_latex.log" "Lifi_didi_paper_pics/" "IEEEtran.tgz" "bare_jrnl.tex" "CV_latex.tex" "Lifi_didi_cut0.tex" "Lifi_didi_cut0.aux" ".#CV_latex.tex" "IEEEtran/" "Lifi.doc" "../" "Lifi_cut1.log" "ltxprimer-1.0.pdf" "Lifi_cut1.tex" "Lifi_didi_cut0.pdf" "CV_latex.dvi" "bare_conf.tex" "Lifi_didi_cut0.log" "IEEEtran.cls")
+
+ ("/home/aritra/Downloads/" (22116 35913 922732 906000) "Southpaw (2015)/" "noname.eml" "Planes Fire and Rescue (2014)/" "War Pigs (2015)/" "July.pdf" "Linux Kernel Networking - Implementation and Theory [PDF]/" "Linux Bible - 9th Edition (2015) (Pdf, Epub & Mobi) Gooner/" "Operator (2015)/" "Learning Italian Ebook.zip" "ti_spice_models.zip" "Linux Shell Scripting Cookbook 2nd Ed (2013)/" "Dragon Ball Z Resurrection 'F 2015 CAM Eng Dub x264.AAC-Warning.mp4" "The Matrix Revolutions (2003) [1080p]/" "Shakespeare In Love (1998)/" "The Longest Yard (2005)/" "Bikini Model Academy (2015)/" "Tomorrowland (2015)/" "HellRaiser UNCUT (1987)/" "Cloud Atlas (2012)/" "Infini (2015)/" "Furious Seven (2015)/" "Scooby Doo! And Kiss Rock and Roll Mystery (2015)/" "Passport Collection Process.pdf" "Blade II (2002)/" "archimedes-2.0.1.tar.gz" "Magic Mike XXL (2015)/" "Differential_Amplifiers_01.ppt" "Programming.Linux.Hacker.Tools.Uncovered/" "Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users by Christopher Negus/" "Terminator Genisys (2015)/" "IEEEtran.tgz" "Programming Linux Games eBook www.Quack-Ware.com/" "How To Lose A Guy In 10 Days (2003)/" "2015-10-17-12-31-55-156_AUDPB6540K_2015_.pdf" "To Kill a Mockingbird (1962)/" "Saving Private Ryan (1998)/" "The Ninth Gate (1999)/" "github-git-cheat-sheet.pdf" "Knock Knock (2015)/" "OpTransactionHistory17-10-2015 (1).pdf" "Paper Towns (2015)/" "12 Angry Men (1957)/" "Cooties (2014)/" "Invitation Letter_Aritra Bhattacharjee.docx" "14FDSOI_routing.tex" "The Shawshank Redemption (1994)/" "This Means War (2012)/" "Covering Letter.pdf" "B-Tech-cert.jpg" "Man Up (2015)/" "Blade (1998)/" "Pixels (2015)/" "PID3933717.pdf" "80 Amazing NASA Pictures Wallpapers [1920 X 1200] HQ - {RedDragon}/" "Freetown (2015)/" "Power FET (DMOS, VMOS)-Hansen and Roschen.pptx" "Office Lens 20151007-230957.jpg" "Sleeping Beauty (2014)/" "Leon The Professional Extended (1994)/" "Frequencies (2013)/" "Artificial Intelligence (2001)/" "The Vatican Tapes (2015)/" "Spy (2015)/" "2015-10-17-12-34-14-253_AUDPB6540K_2014_.pdf" "Casablanca (1942)/" "Atlantis The Lost Empire (2001)/" "Windows 7 Ultimate Sp1 x64 En-Us ESD July 2015 Pre-Activation=-{TEAM OS}=-/" "Indian Institute of Technology Bombay Resume.zip" "10_school_cert.jpg" "The Matrix (1999) [1080p]/" "The Matrix Reloaded (2003) [1080p]/" "Insidious Chapter 3 (2015)/" "Office Lens 20151007-231157.jpg" "Seventh Son (2014)/" "Sample Invitation Letter.pdf" "Sucker Punch (2011)/" "August.pdf" "texput.log" "The Gallows (2015)/" "OpTransactionHistory17-10-2015.pdf" "June.pdf" "Inside Out (2015)/" "Flights.htm" "Badge of Honor (2015)/" "LI FI.doc" "Prometheus (2012)/" "Learning Italian Ebook/" "Hotel Booking - Dialog Semiconductor.pdf" "bare_conf.tex" "Pulp Fiction (1994)/" "2015-10-17-12-35-47-610_AUDPB6540K_2013_.pdf" "The Longest Ride (2015)/" "Dope (2015)/" "emacs" "10plus2_school-cert.jpg" "Guardians of the Galaxy (2014)/" "Blade III - Trinity (2004)/" "Kali Linux Network Scanning Cookbook [PDF] [StormRG]/" "Authorized Insurance Companies.pdf" "14FDSOI_routing (1).tex" "Kali Linux- Assuring Security by Penetration Testing [PDF] [StormRG]/" "Coraline (2009)/" "This Is Where I Leave You (2014)/" "Schengen Visa Application Form.pdf" "ARITRA BHATTACHARJEE.pdf" "Perl One-Liners, 130 Programs That Get Things Done [PDF]~StormRG~/" "The Green Mile (1999)/" "Turbo Kid (2015)/" "X Men Days of Future Past (2014)/" "rfic_inductor.zip" "Jackass Presents Bad Grandpa (2013)/" "../" "./")
+
+ ("/home/aritra/Templates/" (22016 13756 955882 712000) "./" "../")
+
+ ("/home/aritra/" (22116 34600 817940 125000) ".emacs" "./" "Documents/" ".mozilla/" ".compiz/" ".fltk/" ".xsession-errors.old" "Pictures/" ".config/" ".gnuplot_history" "examples.desktop" ".gimp-2.8/" "Desktop/" ".xdvirc" ".dmrc" "octave-workspace" "Public/" ".thumbnails/" ".bashrc" ".adobe/" ".gitconfig" "Videos/" ".chromium-bsu" ".emacs_backups/" ".octave_hist" "missfont.log" ".ngspice_history" ".emacs~" ".sudo_as_admin_successful" ".gvfs/" ".bash_logout" ".git/" ".dbus/" ".emacs.d/" ".pki/" "../" ".ssh/" "init-file/" ".macromedia/" ".profile" ".cache/" ".xsession-errors" "Music/" ".Xauthority" "Downloads/" ".ICEauthority" "Templates/" ".gnome2/" ".gconf/" ".local/" ".inputrc" ".bash_history")
+
+ ("/home/aritra/Desktop/" (22071 45188 582977 761000) "./" "learn_vlsi.org" "emacs-24.5.tar.gz" "archimedes-2.0.1.tar.gz" "Sams.pdf" "Calibe_White_paper/" "Study/" "animation.mp4" "Dialog_semiconductor_interview.org" "LaTeX/" "interview_data.org" "../" "archimedes-2.0.1/" "Sim/" "downloaded books/" "2014_04_msw_a4_format.doc" "Visa-Doc-Nov06-interview/" "mastering-emacs.pdf" "possible_interview_questions.org" "gcc.pdf")
+
+ ("~/Desktop/Study/" (22057 52849 965122 837000) "HBM-1.png" "./" "HBM.xcf" "MM.xcf" "EOS.org" "toST/" "MM-0.png" "HBM-0.png" "../" "scrn.png" "ESD.org" "MM-1.png")
+
+ ("/home/aritra/Desktop/Study/" (22057 52849 965122 837000) "HBM-1.png" "./" "HBM.xcf" "MM.xcf" "EOS.org" "toST/" "MM-0.png" "HBM-0.png" "../" "scrn.png" "ESD.org" "MM-1.png")
+
+ ("/home/aritra/Desktop/Visa-Doc-Nov06-interview/" (22049 60551 851309 280000) "./" "Passport Collection Process.pdf" "Invitation Letter_Aritra Bhattacharjee.pdf" "docements-needed-for-business-visa-italy.org" "Invitation Letter_Aritra Bhattacharjee.docx" "Covering Letter.pdf" "Office Lens 20151007-230957.jpg" ".#docements-needed-for-business-visa-italy.org" "../" "Office Lens 20151007-231157.jpg" "Sample Invitation Letter.pdf" "Authorized Insurance Companies.pdf" "Schengen Visa Application Form.pdf")
+
+ ("/home/" (22016 13439 667817 825000) "./" "aritra/" "../")
+
+ ("/home/aritra/Desktop/LaTeX/Lifi_didi_paper_pics/" (22031 40328 106587 212000) "./" "Lifi-com-power-plant.png" "Tx-Rx.png" "Mult-access.png" "Lifi-implementation.png" "Lifi_imp.png" "lifi-block-dia.png" "lifi-com-digital.png" "Lifi-airplane.png" "../" "Lifi-operation-room.png" "data-com.png" "lifi-com-pic.jpg")
+
+ ("/home/aritra/Desktop/LaTeX/IEEEtran/" (21697 5841 0 0) "./" "bare_adv.tex" "changelog.txt" "README" "bare_jrnl.tex" "bare_jrnl_compsoc.tex" "IEEEtran_HOWTO.pdf" "../" "bare_jrnl_transmag.tex" "bare_conf.tex" "IEEEtran.cls" "bare_conf_compsoc.tex")
+
+ ("/home/aritra/Desktop/downloaded books/" (22021 2584 6971 429000) "./" "getPDF.pdf" "Frontiers_SOI.pdf" "US5733803.pdf" "Microelectronic Circuits [6th Edition][ Sedra Smith][Sol. Manual].pdf" "SOI-CMOS Device Technology.pdf" "ISLPED2014_FD_SOI_Philippe_Flatresse_STMicroelectronics.pdf" "SOI Design Tools, Flows and Methodologies for RF.pdf" "Consortium_9april09_final.pdf" "Designing High Performance Microprocessors on SOI.pdf" "US7122411.pdf" "TRAN_Material.pdf" "TheArtOfAnalogLayoutNew.pdf" "download.pdf" "Sedra Microelectronic Circuits 6th c2010 txtbk.pdf" "1_drennan_cicc06_v3f.pdf" "Lec-8.pdf" "Pages_from_9781482214901.pdf" "Designing Low Power Circuits on SOI.pdf" "SOI Design Clinic Introduction.pdf" "T5.PDF" "ma_SOI.pdf" "../" "25.pdf" "__Fully_Depleted_SOI_CMOS_Circuits_and_Technology_for_Ultralow_Power_Applications.pdf" "ProximityEffectModels.pdf" "Microelectronic Circuits Sedra Smith 6th Edition Solutions/" "report.pdf" "SOI Digital Implementation And Signoff Training.pdf" "Aritra_B_Resume_2015.pdf" "SOI Fundamentals.pdf" "ijsrp-p14113.pdf")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
