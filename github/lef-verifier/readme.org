@@ -1,2 +1,15 @@
 
-this is a lef verifier function collection
+This is a lef verifier function collection.
+
+| planned functions                    | status |
+|--------------------------------------+--------|
+| add class block                      | Done   |
+| replace ground                       | Done   |
+| replace power                        | Done   |
+| check pins on grid                   |        |
+| check pin width                      |        |
+| check pin depth                      |        |
+| check pin consistency with schematic |        |
+| check pin alignment with other lef   |        |
+|                                      |        |
+
